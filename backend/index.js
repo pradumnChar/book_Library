@@ -37,20 +37,3 @@ app.listen(PORT, () => console.log(`Server started on port ${PORT}`));
 
 
 
-//2task mail to harsh sir
-
-///Book Library (React + Node + MongoDB) - Add, list, search books w
-
-// public static node(Node head)
-// {
-// node curr=head;
-// node prev=null;
-// node next=null;
-//  while(curr!=null){
-//      next=curr.next;
-//      curr.next=prev;
-//      prev=curr;
-//      curr=next;
-
-//  }
-// return
